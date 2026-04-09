@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal </h1><p align="center">
+<h1 align="center">Hi 👋, I'm Vishal Yadav</h1><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishal;B.Tech+CSE+(Data+Science);Software+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
 </p><p align="center">
   <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(Data%20Science)-blue?style=for-the-badge"/>
@@ -17,20 +17,26 @@
 
 🚀 Projects
 
-📌 1. Daily Coding Journey
+📌 Daily Coding Journey
 
 - 💻 Language: Java
-- 📖 Description: A structured repository to practice and improve Data Structures & Algorithms consistently
-- 🎯 Focus: Problem solving, logic building, and coding consistency
+- 📖 DSA practice repository for improving problem-solving skills
 
----
-
-📌 2. DataSentinal AI (Intelligent Data Dictionary Agent)
+📌 DataSentinal AI (Intelligent Data Dictionary Agent)
 
 - 🐍 Language: Python
 - ⚙️ Tech: FastAPI
-- 📊 Description: Automated backend system for CSV-to-SQL data ingestion and dynamic data dictionary generation
-- 🎯 Focus: Data processing, backend development, and real-world data handling
+- 📊 Automated system for CSV-to-SQL ingestion and dynamic data dictionary
+
+---
+
+🏆 Achievements
+
+- 🥇 Participated in HackFest 2.0 (24-hour Global Hackathon)
+- 🌐 Organized by GDG Cloud New Delhi
+- 📜 Certified participant with hands-on experience in real-world problem solving
+
+🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/hackthon2.0.jpeg)
 
 ---
 
@@ -59,7 +65,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalyadav351&theme=tokyonight" />
 </p>---
 
-🏆 Achievements
+🏆 Achievements Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vishalyadav351&theme=tokyonight&no-frame=true&margin-w=10" />
