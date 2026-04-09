@@ -33,10 +33,11 @@
 🏆 Achievements
 
 - 🥇 Participated in HackFest 2.0 (24-hour Global Hackathon)
-- 🌐 Organized by GDG Cloud New Delhi
-- 📜 Certified participant with hands-on experience in real-world problem solving
+  🌐 Organized by GDG Cloud New Delhi
+  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/hackthon2.0.jpeg)
 
-🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/hackthon2.0.jpeg)
+- 📜 Certificate in Network Management & Web Development with Ethical Hacking
+  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20in%20Network%20Management%20and%20Web%20Development%20with%20Ethical%20Hacking.pdf)
 
 ---
 
