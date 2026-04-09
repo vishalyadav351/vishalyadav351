@@ -30,7 +30,7 @@
 
 ---
 
-🏆 Achievements
+🏆 Achievements & Certifications
 
 - 🥇 Participated in HackFest 2.0 (24-hour Global Hackathon)
   🌐 Organized by GDG Cloud New Delhi
@@ -38,6 +38,12 @@
 
 - 📜 Certificate in Network Management & Web Development with Ethical Hacking
   🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20in%20Network%20Management%20and%20Web%20Development%20with%20Ethical%20Hacking.pdf)
+
+- 🐍 Certificate in Python for Data Science
+  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20Python%20For%20Data%20Science.pdf)
+
+- 🏭 Certificate in Industrial Training & Summer Internship
+  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20industrial%20Trening%20Summer%20Internship.pdf)
 
 ---
 
