@@ -94,4 +94,4 @@
 
 ⚡ Mindset
 
-«"Consistency builds strong developers."»
+«"Consistency builds strong developers"»
