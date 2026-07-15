@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>🚀 Software Engineer & Data Practitioner specializing in Analytics & Intelligent Systems</b>
+  <b>Aspiring Data Scientist & Full-Stack Developer | B.Tech CSE (Data Science) Student</b>
 </p>
 
 <p align="center">
