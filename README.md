@@ -1,84 +1,117 @@
-<h1 align="center">Hi 👋, I'm Vishal </h1><p align="center">
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishal;B.Tech+CSE+(Data+Science);Software+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(Data%20Science)-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%2B%20Development-success?style=for-the-badge"/>
-</p>---
-
-🧠 About Me
-
-- 🎓 B.Tech CSE (Data Science) student focused on real-world problem solving
-- 💻 Skilled in Java, C, Python, React, and Android Development
-- 📊 Interested in Data Science, Machine Learning, and Data Analysis
-- 🧠 Strong understanding of Data Structures & Algorithms
-- ⚡ Building practical and scalable applications
+</p>
 
 ---
 
-🚀 Projects
+### 🧠 About Me
 
-📌 Daily Coding Journey
-
-- 💻 Language: Java
-- 📖 DSA practice repository for improving problem-solving skills
-
-📌 DataSentinal AI (Intelligent Data Dictionary Agent)
-
-- 🐍 Language: Python
-- ⚙️ Tech: FastAPI
-- 📊 Automated system for CSV-to-SQL ingestion and dynamic data dictionary
+* 🎓 **B.Tech CSE (Data Science)** student focused on real-world problem solving.
+* 💻 Core expertise in **Software Engineering, Full Stack Dev, and Intelligent Systems**.
+* 📊 Deeply interested in **Data Science, Machine Learning pipelines, and Predictive Analysis**.
+* 🧠 Strong foundation in **Data Structures & Algorithms (DSA)** for optimized performance.
+* ⚡ Building practical, enterprise-grade, and scalable applications.
 
 ---
 
-🏆 Achievements & Certifications
+### 🛠️ Technical Skills & Core Competencies
 
-- 🥇 Participated in HackFest 2.0 (24-hour Global Hackathon)
-  🌐 Organized by GDG Cloud New Delhi
-  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/hackthon2.0.jpeg)
-
-- 📜 Certificate in Network Management & Web Development with Ethical Hacking
-  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20in%20Network%20Management%20and%20Web%20Development%20with%20Ethical%20Hacking.pdf)
-
-- 🐍 Certificate in Python for Data Science
-  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20Python%20For%20Data%20Science.pdf)
-
-- 🏭 Certificate in Industrial Training & Summer Internship
-  🔗 "View Certificate" (https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20industrial%20Trening%20Summer%20Internship.pdf)
+<table>
+  <tr>
+    <td width="30%">🖥️ <b>Core Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Web & App Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>📊 <b>Data Science & Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Science-🧠-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-🤖-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>⚙️ <b>Tools & Ecosystem</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-⚡ Tech Stack
+### 🚀 Highlighted Projects
+
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **DataSentinal AI** | `Python` `FastAPI` `SQL` | **Intelligent Data Dictionary Agent.** An automated production-ready system designed for seamless CSV-to-SQL ingestion and dynamic metadata/data dictionary mapping. |
+| **Daily Coding Journey** | `Java` `DSA` | **Algorithmic Vault.** Personal repository mapping rigorous problem-solving across core DSA paradigms (Trees, Graphs, DP). |
+
+---
+
+### 🏆 Credentials & Certifications
+
+<p align="left">
+  <a href="https://github.com/vishalyadav351/vishalyadav351/blob/main/hackthon2.0.jpeg" target="_blank">
+    <img src="https://img.shields.io/badge/HackFest%202.0-Global%20Hackathon%20🥈-blueviolet?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </a>
+  <a href="https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20in%20Network%20Management%20and%20Web%20Development%20with%20Ethical%20Hacking.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ethical%20Hacking%20%26%20Network-Certified-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20Python%20For%20Data%20Science.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-Certified-blue?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/vishalyadav351/vishalyadav351/blob/main/Certificate%20industrial%20Trening%20Summer%20Internship.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Industrial%20Training-Internship%20Verified-green?style=for-the-badge&logo=enterprise&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,html,css,androidstudio,git,github,vscode,linux,mysql" />
-</p>---
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalyadav351&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav351&theme=tokyonight&hide_border=true"/>
-</p>---
-
-📈 Activity Graph
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalyadav351&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav351&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalyadav351&theme=react-dark&hide_border=true&area=true" />
-</p>---
-
-📊 Contribution Overview
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalyadav351&theme=react-dark&hide_border=true&area=true" width="850" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalyadav351&theme=tokyonight" />
-</p>---
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalyadav351&theme=tokyonight" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalyadav351&theme=tokyonight&no-frame=true&margin-w=10" width="400" />
+</p>
 
-🏆 Achievements Stats
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalyadav351&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>---
-
-🌐 Contact Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:vishuydv991@gmail.com">
@@ -90,8 +123,8 @@
   <a href="https://www.instagram.com/iivishalydv">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
   </a>
-</p>---
+</p>
 
-⚡ Mindset
-
-«"Consistency builds strong developers"»
+<p align="center">
+  <i>"Consistency builds strong developers"</i>
+</p>
