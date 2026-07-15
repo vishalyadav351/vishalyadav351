@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishal;B.Tech+CSE+(Data+Science);Software+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishal;B.Tech+CSE+(Data+Science);Software+Developer;Data+Analyst;Machine+Learning+Enthusiast;Full+Stack+Developer" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(Data%20Science)-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%2B%20Development-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%2B%20Analytics%20%2B%20Dev-success?style=for-the-badge"/>
 </p>
 
 ---
@@ -14,8 +14,8 @@
 ### 🧠 About Me
 
 * 🎓 **B.Tech CSE (Data Science)** student focused on real-world problem solving.
-* 💻 Core expertise in **Software Engineering, Full Stack Dev, and Intelligent Systems**.
-* 📊 Deeply interested in **Data Science, Machine Learning pipelines, and Predictive Analysis**.
+* 💻 Core expertise in **Software Engineering, Full Stack Dev, and Data-Driven Systems**.
+* 📊 Deeply interested in **Data Science, Advanced Data Analytics, and Machine Learning pipelines**.
 * 🧠 Strong foundation in **Data Structures & Algorithms (DSA)** for optimized performance.
 * ⚡ Building practical, enterprise-grade, and scalable applications.
 
@@ -34,6 +34,23 @@
     </td>
   </tr>
   <tr>
+    <td>📊 <b>Data Analytics & BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E28743?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Data Science & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Science-🧠-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-🤖-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Data%20Analysis-📈-informational?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
     <td>🌐 <b>Web & App Development</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -41,14 +58,6 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>📊 <b>Data Science & Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Data%20Science-🧠-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-🤖-success?style=flat-square" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
