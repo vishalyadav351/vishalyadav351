@@ -1,84 +1,93 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishal;B.Tech+CSE+(Data+Science);Software+Developer;Data+Analyst;Machine+Learning+Enthusiast;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishal;B.Tech+CSE+(Data+Science);MERN+Stack+Developer;Data+Analyst;Machine+Learning+Enthusiast;Android+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(Data%20Science)-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%2B%20Analytics%20%2B%20Dev-success?style=for-the-badge"/>
+  <b>🚀 Software Engineer & Data Practitioner specializing in Analytics & Intelligent Systems</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Data%20Science%20%26%20Analytics-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engineering-MERN%20%26%20Mobile%20Systems-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Core-DSA%20%26%20Problem%20Solving-orange?style=flat-square" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-* 🎓 **B.Tech CSE (Data Science)** student focused on real-world problem solving.
-* 💻 Core expertise in **Software Engineering, Full Stack Dev, and Data-Driven Systems**.
-* 📊 Deeply interested in **Data Science, Advanced Data Analytics, and Machine Learning pipelines**.
-* 🧠 Strong foundation in **Data Structures & Algorithms (DSA)** for optimized performance.
-* ⚡ Building practical, enterprise-grade, and scalable applications.
+* 🎓 **B.Tech CSE (Data Science)** student focused on real-world engineering and product architecture.
+* 💻 Core expertise in **MERN Stack, Backend APIs, Cloud Tools, and Mobile App Ecosystems**.
+* 📊 Deeply invested in **Data Analytics pipelines, Business Intelligence dashboards, and Predictive Modeling**[cite: 2, 7].
+* 🧠 Robust problem-solving architecture with a strong foundation in **Data Structures & Algorithms (DSA)**[cite: 7].
+* ⚡ Building secure, production-grade, and enterprise-scalable software.
 
 ---
 
-### 🛠️ Technical Skills & Core Competencies
+### 🛠️ Premium Tech Stack & Core Competencies
 
-<table>
+<table width="100%">
   <tr>
-    <td width="30%">🖥️ <b>Core Languages</b></td>
+    <td width="25%" align="center"><b>🖥️ Languages & Core</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td>📊 <b>Data Analytics & BI</b></td>
+    <td align="center"><b>🌐 MERN & Full Stack</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tableau-E28743?style=flat-square&logo=tableau&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td>🤖 <b>Data Science & ML</b></td>
+    <td align="center"><b>📊 Data Analytics & BI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Data%20Science-🧠-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-🤖-success?style=flat-square" />
-      <img src="https://img.shields.io/badge/Data%20Analysis-📈-informational?style=flat-square" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td>🌐 <b>Web & App Development</b></td>
+    <td align="center"><b>📱 App Dev & APIs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td>⚙️ <b>Tools & Ecosystem</b></td>
+    <td align="center"><b>⚙️ DevOps & Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Featured Engineering Projects
 
-| Project Name | Tech Stack | Description |
+| Project Name | Architecture & Tech | System Summary |
 | :--- | :--- | :--- |
-| **DataSentinal AI** | `Python` `FastAPI` `SQL` | **Intelligent Data Dictionary Agent.** An automated production-ready system designed for seamless CSV-to-SQL ingestion and dynamic metadata/data dictionary mapping. |
-| **Daily Coding Journey** | `Java` `DSA` | **Algorithmic Vault.** Personal repository mapping rigorous problem-solving across core DSA paradigms (Trees, Graphs, DP). |
+| **StudySync AI** | `React` `Node.js` `Express` `MongoDB` `Postman` | **Student Collaboration Platform.** Integrated responsive state components with secure REST APIs for real-time data handling, automated workflow syncing, and endpoint optimization[cite: 7]. |
+| **DataSentinal AI** | `Python` `FastAPI` `MySQL` `SQLAlchemy` | **Intelligent Data Dictionary Agent.** Production backend engineered for high-throughput CSV-to-SQL ingestion and real-time schema discovery[cite: 7]. |
+| **VyfocuesX** | `Kotlin` `Google ML Kit` `Android Studio` | **AI Document Scanner App.** Engineered an on-device OCR engine with precise matrix transformations for text extraction and local PDF compilation[cite: 7]. |
+| **Daily Coding Journey** | `Java` `Algorithms` `Data Structures` | **DSA LeetCode Engine.** Strategic repository tracking continuous complexity optimization across core problem-solving structures[cite: 7]. |
 
 ---
 
